@@ -1,5 +1,5 @@
 # import the necessary packages
-from supporting_files.panorama import Stitcher
+from supporting_files.stitch import Stitcher
 import argparse
 import imutils
 import cv2
